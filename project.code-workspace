@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": "server",
+      "name": "backend",
+    },
+    {
+      "path": "client",
+      "name": "frontend",
+    },
+  ],
+}
